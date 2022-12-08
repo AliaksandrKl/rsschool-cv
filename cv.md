@@ -16,3 +16,21 @@ I am 34 years old. I have been working as a process engineer at an oil refinery 
 * HTML
 * CSS
 * Python
+# Code Example
+
+```
+function multiply (a, b) {
+return a * b
+}
+```
+# Education
+* Belarusian State Technological University
+  * Technology of organic substances
+* Institute of Bioinformatics
+  * Programming in Python (https://stepik.org/course/67)
+
+# Languages:
+* Belarusian (native speaker)
+* Russian (native speaker)
+* English (A2)
+* Deutsch (A1)
