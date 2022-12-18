@@ -2,10 +2,10 @@
 
 # Contacts
 
-* Phone: + 375 29 532 34 20
-* E-mail: aklyshkon@yandex.ru
-* GitHub: AliaksandrKl
-* Discord: AliaksandrKl
+- Phone: + 375 29 532 34 20
+- E-mail: aklyshkon@yandex.ru
+- GitHub: AliaksandrKl
+- Discord: AliaksandrKl
 
 # About Me
 
@@ -13,9 +13,10 @@ I am 34 years old. I have been working as a process engineer at an oil refinery 
 
 # Skills
 
-* HTML
-* CSS
-* Python
+- HTML
+- CSS
+- Python
+
 # Code Example
 
 ```
@@ -23,14 +24,14 @@ function multiply (a, b) {
 return a * b
 }
 ```
-# Education
-* Belarusian State Technological University
-  * Technology of organic substances
-* Institute of Bioinformatics
-  * Programming in Python (https://stepik.org/course/67)
 
-# Languages:
-* Belarusian (native speaker)
-* Russian (native speaker)
-* English (A2)
-* Deutsch (A1)
+# Education
+
+- Belarusian State Technological University
+  - Technology of organic substances
+- Institute of Bioinformatics
+  - Programming in Python (https://stepik.org/course/67)
+
+# English
+
+- (A2)
