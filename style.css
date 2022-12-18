@@ -15,7 +15,7 @@ html {
     box-sizing: border-box;
   }
 
-  .container {
+  .container, .nav {
     max-width: 1440px;
     margin: 0 auto;
   }
@@ -26,6 +26,7 @@ html {
     align-items: center;
     list-style: none;
     padding: 0 20px;
+    margin: 0px 0px 20px 0px;
     line-height: 50px;  
   }
 
@@ -51,11 +52,14 @@ html {
 
   .container-header {
     display: flex;
-   justify-content: space-around;
+    align-items: center;
+    justify-content: space-around;
   }
-  .section-h1 {
+
+  .container-footer {
     display: flex;
-    align-self: center;
+    align-items: center;
+    justify-content: space-around;
   }
 
   .section {
@@ -63,7 +67,7 @@ html {
   }
 
   @media (max-width: 768px) {
-    .section {
+    .section, .nav {
       width: 100%;
     }
   }
@@ -84,21 +88,46 @@ html {
     font-size: 18px;
     font-weight: 400;
     line-height: 1.5;
-    color: #030304;
+    color: #034e80;
   }
 
   .section-title {
     font-size: 20px;
-    font-weight: 400;
+    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #040504;
+    color: #010135;
   }
 
   h1 {
     font-size: 30px;
-    font-weight: 400;
+    font-weight: bold;
     text-transform: uppercase;
     letter-spacing: 5px;
-    color: #040504;
+    color: #010135;
   }
+
+  .nav, .container-footer {
+    background-color:#2ac9ff;
+  }
+
+  a {
+    text-decoration: none;
+   }
+   a:hover {
+    text-decoration: underline;
+   }
+
+   A {
+    color: #010135;
+   }
+   A:visited {
+    color: #010135;
+   }
+   A:active {
+    color: #010135;
+   }
+
+   .section-footer-logo {
+    color: #010135;
+   }
